@@ -60,13 +60,13 @@ Common slicers available across pages: **Year, Country, Attack Type, Target Indu
 - Map visual attribution: © Microsoft Bing / Microsoft Corporation.
 - Resolution time is measured in hours.
 
-<img width="1178" height="660" alt="1766766947652" src="https://github.com/user-attachments/assets/63343729-380e-41c6-aa6e-2ed6fde7b403" />
+<img width="1340" height="755" alt="Screenshot 2026-01-19 101921" src="https://github.com/user-attachments/assets/87348104-542e-469c-bffe-4652f5eb2e64" />
 
-<img width="1182" height="666" alt="1766766945621" src="https://github.com/user-attachments/assets/37fc1ac6-af15-41d0-bbb0-92e5a7dfe964" />
+<img width="1341" height="752" alt="Screenshot 2026-01-19 101939" src="https://github.com/user-attachments/assets/0c867ad8-ff8c-49fd-b668-a0522e6ad2ff" />
 
-<img width="1177" height="661" alt="1766766946760" src="https://github.com/user-attachments/assets/ca4a7b2c-c097-4d00-a491-2e28b8b40cc2" />
+<img width="1342" height="751" alt="Screenshot 2026-01-19 101957" src="https://github.com/user-attachments/assets/8aa38658-a27a-4f3b-811f-cc80756ab5f8" />
 
-<img width="1177" height="660" alt="1766766945895" src="https://github.com/user-attachments/assets/ae325835-bb96-42fd-9825-9da59098b3a2" />
+<img width="1337" height="753" alt="Screenshot 2026-01-19 102018" src="https://github.com/user-attachments/assets/c4640c6d-2374-4c0d-8ab2-fc38e3892c11" />
 
 
 
